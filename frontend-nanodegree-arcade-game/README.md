@@ -2,8 +2,18 @@
 
 ## Table of Contents
 
+- [Play Game] (#play)
 - [Instructions](#instructions)
 - [Contributing](#contributing)
+
+
+## Play
+
+The game loads as soon as the page loads. The enemies are already in motion. The girl is placed at the starting point.
+To move around the squares, use the arrow keys. Your goal is to arrive to the last row of squares before the water.
+When a bug hits you, you lose a life (heart). If you lose 3 lives, the game is over.
+If you reach the water 10 times, you win and you have 100 points!
+
 
 ## Instructions
 
